@@ -1,5 +1,7 @@
 # A Universal Music Translation Network Implementation
 
+![structure](./figures/structure.png)
+
 References
 
 A Universal Music Translation Network 
